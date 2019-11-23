@@ -1,0 +1,10 @@
+State                     1960         1950
+Maine                      1125043	     993722
+New Hampshire               920610		 737681
+Vermont                     511456		 444732
+Massachusetts              5737093	    5689170
+Rhode Island                947154		 949723
+Connecticut                3107564	    3032217
+New York                  23667764     19971069
+New Jersey                 7365011	    7171112
+Pennsylvania              11864720	   11800766
